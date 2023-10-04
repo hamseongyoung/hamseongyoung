@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=#7FFFD4&height=300&section=header&text=seongyoung%20github&animation=twinkling&fontSize=90&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=wave&color=7FFFD4&height=300&section=header&text=seongyoung%20github&animation=twinkling&fontSize=90&fontColor=d6ace6)
 
 ### Hi there 👋
 
