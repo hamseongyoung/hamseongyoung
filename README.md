@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=A9A9A9&height=300&section=header&text=seongyoung%20github&animation=twinkling&fontSize=90&fontColor=708090)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ham033100)](https://solved.ac/ham033100/)<br>
 <img src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white"> <!--java 뱃지-->
-<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"> <!--github 뱃지-->
-
+<img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white"><br> <!--github 뱃지-->
+                                                [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)                    
 
 ### Hi there 👋
 
