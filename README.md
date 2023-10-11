@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=A9A9A9&height=300&section=header&text=seongyoung%20github&animation=twinkling&fontSize=90&fontColor=708090)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=백준아이디)](https://solved.ac/ham033100/)
 ### Hi there 👋
 
 <!--
